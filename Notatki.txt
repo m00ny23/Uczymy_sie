@@ -6,3 +6,7 @@ git status
 git log
 git checkout ' (id z loga) ' cofa do danego commita
 git push -u origin master ( mogą być inne nazwy!!) - wpychniecie do repo chmurowego
+git branch nazwa -- tworzy nowa branch  !!uwaga!! tworzy na bazie brancha na ktorym sie znajdujemy
+    użyj git branch NowyBranch, BranchBAzowy
+    TETTETETE
+git commit --amend -m "New commit message" - his replaces the last commit with a new one (without changing its contents)
