@@ -1,0 +1,8 @@
+git innit
+git branch 
+config --global user.name'Miki' --//-- email dodanie zmiennych
+commit -m 'opis' zapisuje
+git status
+git log
+git checkout ' (id z loga) ' cofa do danego commita
+git push -u origin master ( mogą być inne nazwy!!) - wpychniecie do repo chmurowego
